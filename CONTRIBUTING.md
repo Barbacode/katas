@@ -1,8 +1,4 @@
-# katas
-
-Repository to store the different katas we do in Barbacode Space
-
-## CONTRIBUTION GUIDELINES
+# CONTRIBUTION GUIDELINES
 
 We do a code kata each month in the [Barbacode space]: http://barbacode.space
 
